@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "user": "itstheseanzy",
+    "joined": "2016-27-04T17:09:00.000Z",
+    "measurement": "pounds",
+    "weight": 252.2,
+    "height": "5'11\"",
+    "power": {
+      "bench": 225,
+      "squat": 350,
+      "deadlift": 450,
+      "total": 1025
+    },
+    "system": "Conjugate/Westside",
+    "trainingLog": [
+      {
+        "date": "2016-27-04T17:26:27:00.000Z",
+        "description": "max effort lower",
+        "main": "deadlift",
+        "scheme": {
+          "sets": 5,
+          "reps": 1
+        },
+        "weight": [
+          {
+            "load": 360,
+            "success": true
+          },
+          {
+            "load": 370,
+            "success": true
+          },
+          {
+            "load": 380,
+            "success": true
+          },
+          {
+            "load": 390,
+            "success": true
+          },
+          {
+            "load": 400,
+            "success": true
+          }
+        ],
+        "pr": false,
+        "notes": ""
+      }
+    ]
+  }
+]
